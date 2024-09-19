@@ -1,7 +1,7 @@
 <?php
 
 /*
- *3.1. Ejercicio mostrar cadena de caracteres
+ *1. Ejercicio mostrar cadena de caracteres
 
 Usando como base el fichero ejercicios/mostrartexto.php vamos a realizar un script que muestre el nombre de usuario a partir del valor de la variable $s.
 
